@@ -22,6 +22,13 @@ systems. Simply run the commands
 
 in the top level directory.
 
+Bonus: You can also build it with CMake!
+
+    mkdir build;cd build
+    cmake ..
+    cmake --build .
+    cmake --build . --target install
+
 Tool
 ----
 
